@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">8 Ball</string>
+    <string name="make_everyday_decisions_easier">Make Everyday Decisions easier!</string>
+    <string name="ask">Ask</string>
+    <string name="ball_image">Ball image</string>
+</resources>
